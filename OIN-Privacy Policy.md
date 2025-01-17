@@ -11,7 +11,6 @@
 Open Ireland Network is the data controller responsible for your personal data. If you have any questions about this privacy policy or our data practices, please contact us at:
 
 * Email: [info@openirelandnetwork.com](mailto:info@openirelandnetwork.com)   
-* Address: Moyne Rd, Ranelagh, Dublin 6
 
 **2\. Data We Collect**
 
